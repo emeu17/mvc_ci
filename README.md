@@ -9,4 +9,7 @@ Kmom06
 Travis and Scrutinizer
 -------------
 
-Adding Travis and Scrutinizer to ORM symfony project from kmom05
+Adding Travis and Scrutinizer to ORM symfony project from kmom05.
+
+Code coverage includes the folder 'src' excluding Entity- and Repository-classes. At the moment only Dice-classes are tested,
+Controller-classes do not have any unit tests which results in lower code coverage.
