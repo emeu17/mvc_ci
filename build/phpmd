@@ -1,12 +1,12 @@
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\migrations\Version20210609021253.php:20	Avoid using short method names like Version20210609021253::up(). The configured minimum method name length is 3.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\migrations\Version20210609021253.php:20	Avoid using short method names like Version20210609021253::up(). The configured minimum method name length is 3.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\migrations\Version20210609021253.php:20	Avoid unused parameters such as '$schema'.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\migrations\Version20210609021253.php:27	Avoid unused parameters such as '$schema'.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\migrations\Version20210609025115.php:20	Avoid using short method names like Version20210609025115::up(). The configured minimum method name length is 3.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\migrations\Version20210609025115.php:20	Avoid using short method names like Version20210609025115::up(). The configured minimum method name length is 3.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\migrations\Version20210609025115.php:20	Avoid unused parameters such as '$schema'.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\migrations\Version20210609025115.php:27	Avoid unused parameters such as '$schema'.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\src\Entity\Book.php:11	The property $id_book is not named in camelCase.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\src\Entity\Highscore.php:11	The property $id_score is not named in camelCase.
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\src\Kernel.php:14	Avoid assigning values to variables in if clauses and the like (line '22', column '27').
-C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\orm\src\Kernel.php:27	Avoid assigning values to variables in if clauses and the like (line '34', column '27').
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\migrations\Version20210609021253.php:20	Avoid using short method names like Version20210609021253::up(). The configured minimum method name length is 3.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\migrations\Version20210609021253.php:20	Avoid using short method names like Version20210609021253::up(). The configured minimum method name length is 3.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\migrations\Version20210609021253.php:20	Avoid unused parameters such as '$schema'.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\migrations\Version20210609021253.php:27	Avoid unused parameters such as '$schema'.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\migrations\Version20210609025115.php:20	Avoid using short method names like Version20210609025115::up(). The configured minimum method name length is 3.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\migrations\Version20210609025115.php:20	Avoid using short method names like Version20210609025115::up(). The configured minimum method name length is 3.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\migrations\Version20210609025115.php:20	Avoid unused parameters such as '$schema'.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\migrations\Version20210609025115.php:27	Avoid unused parameters such as '$schema'.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\src\Entity\Book.php:11	The property $id_book is not named in camelCase.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\src\Entity\Highscore.php:11	The property $id_score is not named in camelCase.
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\src\Kernel.php:14	Avoid assigning values to variables in if clauses and the like (line '22', column '27').
+C:\Users\emma8\Documents\BTH\dbwebb-kurser\mvc\me\ci\src\Kernel.php:27	Avoid assigning values to variables in if clauses and the like (line '34', column '27').
