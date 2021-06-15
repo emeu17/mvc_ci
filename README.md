@@ -1,7 +1,7 @@
-Kmom05
+Kmom06
 ==========
 
-ORM
+Travis and Scrutinizer
 -------------
 
-Adding ORM to symfony project
+Adding Travis and Scrutinizer to ORM symfony project from kmom05
