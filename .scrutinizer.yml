@@ -12,8 +12,7 @@ build:
                     version: 7.4
     tests:
         override:
-            -
-                command: "make phpunit"
-                coverage:
-                    file: "build/coverage.clover"
-                    format: "php-clover"
+            - command: "make phpunit"
+              coverage:
+                  file: "build/coverage.clover"
+                  format: "php-clover"
