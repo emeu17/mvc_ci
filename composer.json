@@ -61,6 +61,8 @@
         },
         "sort-packages": true
     },
+    "name": "dbwebb/mvc-ci",
+    "description": "A part of the course dbwebb/mvc, adding CI.",
     "autoload": {
         "psr-4": {
             "App\\": "src/",
